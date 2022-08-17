@@ -1,5 +1,6 @@
-const numero1 = 30;
-const numero2 = 20;
+// OPERACIONES BASICAS //
+const numero1 = 20;
+const numero2 = 5;
 
 let resultado;
 
@@ -21,4 +22,9 @@ console.log(resultado);
 
 // Modulo
 resultado = numero1 % numero2;
+console.log(resultado);
+
+
+// Potencia
+resultado = numero1 ** numero2;
 console.log(resultado);
